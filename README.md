@@ -1,3 +1,10 @@
+Data Science Capstone Project
+Part of Coursera IBM Applied Data Science Capstone
+Opening a Supermarket in Los Angeles, California
+By: Saurav Arun Nair
+22nd May 2020
+
+
 Introduction:
 In today’s fast paced world, there is should be a one stop place for everything people would like to purchase rather than having to visi different shops for every particular item on their shopping list as this would be very time consuming. Supermarkets are stores where one can easily purchase all the required items like grocery, toys, food, packaged products, home appliances, clothes etc. Supermarkets are efficient as they provide the customer all they need at one location without having to visit different stores for each particular item. There are various supermarkets in Los Angeles namely Raley’s Supermarket, Rosco Supermarket, CostCo, Walmart etc. As Efficient as they are, Supermarkets are costly to build and maintain as they require a big amount of land. For a real estate developer or investor, it is important that the supermarket is opened in such a location where there is less competition from other supermarkets.
 
