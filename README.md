@@ -1,8 +1,8 @@
-                                                                  Data Science Capstone Project
-                                                      Part of Coursera IBM Applied Data Science Capstone
-                                                      Opening a Supermarket in Los Angeles, California
-                                                                  By: Saurav Arun Nair
-                                                                  22nd May 2020
+Data Science Capstone Project
+Part of Coursera IBM Applied Data Science Capstone
+Opening a Supermarket in Los Angeles, California
+By: Saurav Arun Nair
+22nd May 2020
 
 
 Introduction:
